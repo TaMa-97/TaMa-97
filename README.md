@@ -2,7 +2,7 @@
 
 ## technologies & tools
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,astro,react,jquery,vue,nextjs,webpack,vite,babel,gulp,styledcomponents,emotion,bootstrap,materialui,tailwind,pug,wordpress,jest,md,powershell,redux,vercel,netlify,vscode,firebase,git,github,docker,figma,xd,ps,ai&theme=light&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,astro,jquery,react,vue,nextjs,nuxtjs,webpack,vite,babel,gulp,pug,styledcomponents,emotion,bootstrap,materialui,tailwind,wordpress,firebase,jest,redux,md,powershell,vscode,vercel,netlify,git,github,docker,figma,xd,ps,ai&theme=light&perline=10)](https://skillicons.dev)
 
 <br>
 
